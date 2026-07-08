@@ -27,19 +27,30 @@ const WEBHOOK =
 "https://hook.us2.make.com/REPLACE_WITH_YOURS";
 
 const ACTIVITIES = [
+    "Assorted Tasks",
     "Development",
-    "Troubleshooting",
+    "Deployment",
+    "Meeting",
     "System Administration",
-    "Meeting"
+    "Teaching",
+    "Troubleshooting",
+    "Locked System",
 ];
 
 const DEPARTMENTS = [
+    "Capital",
+    "City",
+    "Development",
     "Engineering",
+    "GIS",
+    "ISS",
+    "LPD",
+    "Public Works",
     "Stormwater",
+    "Streets",
+    "Traffic",
     "Wastewater Collections",
     "Water Distribution",
-    "LPD",
-    "Public Works"
 ];
 
 
