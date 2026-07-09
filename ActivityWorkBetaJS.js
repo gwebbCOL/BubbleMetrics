@@ -24,7 +24,7 @@ console.log("===== Activity Tracker Started =====");
 //------------------------------------------------------
 
 const WEBHOOK =
-"https://hook.us2.make.com/REPLACE_WITH_YOURS";
+"https://hook.us2.make.com/82ejlamukucdca3iac2tdkm1xfx6alnl";
 
 const ACTIVITIES = [
     "Assorted Tasks",
